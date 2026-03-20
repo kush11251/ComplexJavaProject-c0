@@ -1,0 +1,6 @@
+server:
+  port: 8080
+
+user:
+  name: John Doe
+  email: johndoe@example.com
